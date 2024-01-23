@@ -9,7 +9,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue 
 cover: "https://gradim.fh-potsdam.de/omeka-s/files/large/f98c8d4baf96f80fed2fa1ded94b4dcb88a34a9d.jpg"
 ---
 
-So everything started in Jerusalem. I was 18. I had never been in Israel before. And I had never felt a special attraction for photography either. But I was truly enchanted by Jerusalem and the neighborhood of Mea Shearim, by this timeless choreography in this little enclave, this shtetl in the heart of the Middle East. In other terms, diaspora, in the heart of Jerusalem. 
+So everything started in [Jerusalem](set/213867). I was 18. I had never been in Israel before. And I had never felt a special attraction for photography either. But I was truly enchanted by Jerusalem and the neighborhood of Mea Shearim, by this timeless choreography in this little enclave, this shtetl in the heart of the Middle East. In other terms, diaspora, in the heart of Jerusalem. 
 
 Jacques Derrida, who wrote about this photograph, said that Mea Shearim is the key of diaspora. It remains outside of home at home. And Mea Shearim became the matrix of my entire project, which then led me to over 45 countries. And this is [my very first photograph, Purim in Jerusalem](item/227928).
 
