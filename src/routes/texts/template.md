@@ -1,8 +1,8 @@
 ---
-title: An example of a possible essay with Gradim data.
-date: "2023-12-14"
+title: Jewishness. Otherness. Performance. A Photographic Reflection.
+date: "2020-07-30"
 color: "red"
-author: Mark-Jan
+author: Frédéric Brenner
 isPublic: true
 lang: en
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
